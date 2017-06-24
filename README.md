@@ -2,10 +2,12 @@
 
 
 ## What exactly the Data is?
-
+The data is about total sales made by different salespersons of a firm in different countries.
 
 ## How can one obtain the Data?
+One can download the data by using the following link:
 
+https://www.dropbox.com/sh/inm1kqz9o90lxsq/AACcI9hXN8NLeinGJgnpQobBa?dl=0
 
 ## Individual Analysis and its Inference
 ### Area Plot
